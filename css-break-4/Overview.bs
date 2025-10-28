@@ -530,7 +530,7 @@ Possible Break Points</h3>
 				When the block flow direction of the siblings' containing block
 				is parallel to that of the fragmentation context:
 				<a href="https://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html#positioning-scheme">in-flow</a> block-level boxes,
-				a float and an immediately-adjacent in-flow or floated box,
+				a float and an immediately-adjacent <a>in-flow</a> or floated box,
 				table row group boxes,
 				table row boxes,
 				multi-column column row boxes.
